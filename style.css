@@ -1,0 +1,49 @@
+h1 {
+    color: #d0a412;
+    font-size: 2.25rem;
+    font-family:Open Sans, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+}
+.recipe-list{
+    color:white;
+    font-family:Open Sans, Helvetica, sans-serif;
+    background-color: rgb(9, 204, 230);
+    display: block;
+    padding:10px;
+    margin:20px auto;
+    border-radius: 30px;
+    
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    background-color: rgb(12, 152, 170);
+    text-decoration: none;
+    cursor:-webkit-grabbing;
+    transition: all 4s ease;
+} 
+a:active {
+    text-decoration: none;
+}
+
+.header-style img {
+    float: left;
+}
+
+.header-style h1 {
+    position: relative;
+}
+
+.header-style{
+    margin-bottom: 100px;
+}
